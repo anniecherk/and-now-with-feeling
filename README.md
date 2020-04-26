@@ -13,7 +13,7 @@ bad!(nay);
 
 fn maybe_divide(a: i32, b: i32) -> Result<32, &'static str> {
     if b == 0 {
-        nay!("")
+        nay!("Dividing by zero? No way no how!")
     } else {
         yay!(a / b)
     }
