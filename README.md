@@ -1,6 +1,6 @@
-*Friends, are you sick of returning Results without really expressing them?*
+**Friends! Are you sick of returning Results without really expressing them?**
 
-Look no further! We present for your assumement:
+Look no further! We present for your amusement:
 
 # good! and bad!
 ## macros for redefining Ok and Err... now with feeling!
