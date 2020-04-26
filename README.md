@@ -1,4 +1,4 @@
-**Friends! Are you sick of returning Results without really expressing them?**
+**Friends! Are you sick of merely returning Results instead of really expressing them?**
 
 Look no further! We present for your amusement:
 
